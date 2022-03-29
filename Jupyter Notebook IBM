@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    },
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Pyolite",
+      "language": "python"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "# H1 My Jupyter Notebook for IBM Watson Studio",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "**Christopher Villavicencio** \nI am interested in the field of data science to pursue AI and machine learning, and maybe to get into a cloud based job.",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "*I am interesting in data science and cloud programming, because I like solving problems, and want to be apart of future endeavors in regards to technology.*",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# H3 My code is supposed to add multiply the numbers 3.14 and 9.",
+      "metadata": {
+        "tags": []
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": "3.14 * 9",
+      "metadata": {
+        "tags": [],
+        "trusted": true
+      },
+      "execution_count": 1,
+      "outputs": [
+        {
+          "execution_count": 1,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "28.26"
+          },
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": "***\n[https://www.instagram.com/chrisvllvcnco/]\n1. Chest Press\n2. Dumbbell Shoulder Front Raises",
+      "metadata": {
+        "tags": []
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
